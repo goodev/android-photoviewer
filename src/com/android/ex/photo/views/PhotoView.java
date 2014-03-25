@@ -38,7 +38,7 @@ import android.view.ScaleGestureDetector;
 import android.view.View;
 import android.view.ViewConfiguration;
 
-import com.android.ex.photo.R;
+import org.thialfihar.android.apg.R;
 import com.android.ex.photo.fragments.PhotoViewFragment.HorizontallyScrollable;
 
 /**

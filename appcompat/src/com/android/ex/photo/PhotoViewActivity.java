@@ -60,6 +60,8 @@ import com.android.ex.photo.loaders.PhotoBitmapLoaderInterface.BitmapResult;
 import com.android.ex.photo.loaders.PhotoPagerLoader;
 import com.android.ex.photo.provider.PhotoContract;
 
+import org.thialfihar.android.apg.R;
+
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;

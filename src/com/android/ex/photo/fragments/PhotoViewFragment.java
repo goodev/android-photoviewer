@@ -43,7 +43,7 @@ import com.android.ex.photo.Intents;
 import com.android.ex.photo.PhotoViewCallbacks;
 import com.android.ex.photo.PhotoViewCallbacks.CursorChangedListener;
 import com.android.ex.photo.PhotoViewCallbacks.OnScreenListener;
-import com.android.ex.photo.R;
+import org.thialfihar.android.apg.R;
 import com.android.ex.photo.adapters.PhotoPagerAdapter;
 import com.android.ex.photo.loaders.PhotoBitmapLoaderInterface;
 import com.android.ex.photo.loaders.PhotoBitmapLoaderInterface.BitmapResult;
