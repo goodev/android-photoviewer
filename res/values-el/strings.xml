@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 
+<!--
      Copyright (C) 2012 Google Inc.
      Licensed to The Android Open Source Project.
 
@@ -19,6 +19,6 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="photo_view_count" msgid="3466690572899800275">"<xliff:g id="CURRENT_POS">%d</xliff:g> από <xliff:g id="COUNT">%d</xliff:g>"</string>
-    <string name="retry" msgid="3319517143224679074">"Επανάληψη"</string>
+    <string name="retry2" msgid="3319517143224679074">"Επανάληψη"</string>
     <string name="failed" msgid="1458877219699376279">"Αδύνατη η φόρτωση της εικόνας"</string>
 </resources>
